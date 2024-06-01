@@ -340,13 +340,13 @@ body {
   align-items: center;
   background: #fafafa;
   padding: 2em 15em;
-  width: 98vw;
+  width: 100vw;
 }
 
 .growth_section {
   display: flex;
   align-items: center;
-  justify-content: space-around;
+  justify-content: center;
   margin-top: 2em;
 }
 
@@ -399,7 +399,7 @@ body {
   background-color: #ff3147;
   /* UI Properties */
   opacity: 0.81;
-  width: 1893px;
+  width: 100vw;
   margin-top: 2em;
 }
 
